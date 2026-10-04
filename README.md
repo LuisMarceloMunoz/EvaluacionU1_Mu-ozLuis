@@ -1,7 +1,7 @@
 # EvaluacionU1_Mu-ozLuis
 Evaluacion N1 Herramientas computacionales 2 
 
-#Análisis de Viga Simplemente Apoyada
+##Análisis de Viga Simplemente Apoyada
 
 Este repositorio contiene el análisis carga-deflexión de una viga de sección rectangular, contrastando datos empíricos con la teoría de Euler-Bernoulli.
 
